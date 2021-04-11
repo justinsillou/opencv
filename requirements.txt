@@ -1,7 +1,11 @@
 # fingerCapture.py
-cv2
-time
-os
+echo "pip install opencv-python"
+opencv-python
+echo "pip install time"
+echo "pip install os"
+## time
+## os
 
 # HandTrackingModule
+echo "pip install mediapipe" 
 mediapipe
