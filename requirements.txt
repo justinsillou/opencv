@@ -1,0 +1,7 @@
+# fingerCapture.py
+cv2
+time
+os
+
+# HandTrackingModule
+mediapipe
